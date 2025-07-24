@@ -1,0 +1,2 @@
+mongoexport --uri="mongodb://localhost:27017/avaliacao_dataops" --collection=Carros --out=Carros.json --jsonArray
+mongoexport --uri="mongodb://localhost:27017/avaliacao_dataops" --collection=Montadoras --out=Montadoras.json --jsonArray

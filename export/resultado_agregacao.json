@@ -1,0 +1,6 @@
+[
+  { "_id": "Alemanha", "Carros": [ { "Carro": "Polo", "Cor": "Branco", "Montadora": "Volkswagen" } ] },
+  { "_id": "EUA", "Carros": [ { "Carro": "Onix", "Cor": "Prata", "Montadora": "Chevrolet" }, { "Carro": "Fiesta", "Cor": "Vermelho", "Montadora": "Ford" } ] },
+  { "_id": "França", "Carros": [ { "Carro": "Sandero", "Cor": "Prata", "Montadora": "Renault" } ] },
+  { "_id": "Japão", "Carros": [ { "Carro": "City", "Cor": "Preto", "Montadora": "Honda" } ] }
+]
